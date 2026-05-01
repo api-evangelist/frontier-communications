@@ -1,7 +1,7 @@
 aid: frontier-communications
 url: 
   https://raw.githubusercontent.com/api-evangelist/frontier-communications/refs/heads/main/apis.yml
-modified: '2026-03-24'
+modified: '2026-04-28'
 apis: []
 common:
   - type: Website
