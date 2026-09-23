@@ -1,7 +1,9 @@
 ---
 title: Frontier Communications
 url: https://www.databricks.com/customers/frontier-communications
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Frontier Communications" press release artificial intelligence'
 position: 3
 source: serpapi-google
